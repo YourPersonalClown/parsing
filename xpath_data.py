@@ -1,0 +1,9 @@
+login_element_path = '//*[@id="login-id-main"]/div[1]/div/div/div[1]/div[2]'
+rps_element_xpath = "/html/body/div/div/div/div[1]/div[2]/main/div/div/div[2]/div/div/div/div/form/div[1]/div[1]/div/div[2]/div[3]/div/div/div[1]/div[1]/div[2]/div/i"
+rps_found_xpath = '//*[@id="list-item-417-1"]/div/div'
+begin_date_xpath = "//input[@data-vv-name='rate__head__start_date']"
+checkbox_xpath = '//*[@id="app"]/div[1]/div[2]/main/div/div/div[2]/div/div/div/div/form/div[1]/div[1]/div/div[2]/div[12]/div/div/div[1]/label'
+begin_station_xpath = "//input[@data-vv-name='rate__route__st_from_name']"
+end_station_xpath = "//input[@data-vv-name='rate__route__st_to_name']"
+cargo_xpath = "//input[@data-vv-name='rate__cargo__cargo']"
+input_data_xpath = '//*[@id="app"]/div/div[2]/main/div/div/div[2]/div/div/div/div/div/button[2]/span'
